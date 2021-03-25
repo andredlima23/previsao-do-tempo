@@ -2,10 +2,10 @@
 
 ## Bootcamp Avanade Angular 8
 --------------------------------------------------------
-###*Versão do Angular* 
-**Angular CLI: 11.2.4
-Node: 12.18.2
-OS: win32 x64**
+### *Versão do Angular* 
+**Angular CLI: 11.2.4**
+**Node: 12.18.2**
+**OS: win32 x64**
 
 ### Package                      Version
 @angular-devkit/architect    0.1102.4 (cli-only)
