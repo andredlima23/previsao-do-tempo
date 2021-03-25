@@ -1,7 +1,23 @@
 .container-fluid {
   height: calc(100vh - 56px);
-
   > .row {
     height: 100%;
   }
+}
+
+.nav-link {
+  margin: 10px 10px;
+  padding: 20px;
+  border-style: solid;
+  color: rgba(58, 58, 61, 0.904);
+  font-style: oblique;
+}
+
+.nav-link:hover {
+  -webkit-filter: drop-shadow(15px 10px 5px rgba(0,0,0,.5));
+  filter: drop-shadow(15px 10px 5px rgba(0,0,0,.5));
+}
+
+.container-fluid {
+  background-color:rgba(68, 68, 160, 0.400);
 }
